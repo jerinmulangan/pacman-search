@@ -1,3 +1,5 @@
+This project is for CS 4365 Artificial Intelligence Course
+
 Project Link: [http://ai.berkeley.edu/project_overview.html](http://ai.berkeley.edu/project_overview.html)
 ###### **Requires Python 2.7**
 # Berkeley CS 188 ‑ Project 1: **Pac‑Man Search**  
