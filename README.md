@@ -155,5 +155,5 @@ Record:        Win
 
 ## License
 
-MIT
-University of California Berkeley
+- MIT
+- University of California Berkeley
